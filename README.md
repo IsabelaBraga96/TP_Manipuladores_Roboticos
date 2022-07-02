@@ -7,9 +7,11 @@ Isto foi feito para a disciplina de Manipuladores Robóticos da UFMG.
 
 ## Desenvolvedores
 
-Isabela Braga da Silva
-Lucas Henrique Gomes Ferreira
-Danilo Siqueira Santos
+ - Isabela Braga da Silva
+
+ - Lucas Henrique Gomes Ferreira
+ 
+ - Danilo Siqueira Santos
 
 ## Simulação
 
