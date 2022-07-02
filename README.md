@@ -13,7 +13,7 @@ Danilo Siqueira Santos
 
 ## Simulação
 
-[![Watch the video](Capa_Video.jpg)](https://youtu.be/RuAgqOUBFWE)
+[![Watch the video](https://raw.githubusercontent.com/IsabelaBraga96/TP_Manipuladores_Roboticos/master/Capa_Video.JPG)](https://youtu.be/RuAgqOUBFWE)
 
 
 
